@@ -4,20 +4,10 @@
 
 Verantwoord en presenteer je keuze voor een tech-stack.
 
-<!-- Haal bovenstaande tekst weg! -->
+## Mijn Tech stack
+Ik heb ervoor gekozen een techstack van Nuxt/Sanity te gebruiken. Ik heb mijn ervaringen met deze tech stack daarna gepresenteerd aan mijn klasgenoten.
 
-
-<!-- Schrijf een mooie inleiding, beschrijf minstens de aanleiding - waarom doe je deze opdracht - en de tech-stack die je onderzoekt. Beschrijf daarna heel kort de stappen bij 2, 3, 4 en 5. -->
-
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) -->
-
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) -->
-
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
-
-<!-- Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt. -->
-
-<!-- De licentie hieronder mag je ook weg halen, of laten staan, wat je wilt -->
+<img src= "https://github.com/kosterm14/choices-choices-justify-your-tech-stack/assets/61830362/8e6c01f2-8014-4a8c-a1cc-e56edcdaf31b" width= 50%>
 
 ## Licentie
 
